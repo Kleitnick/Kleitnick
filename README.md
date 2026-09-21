@@ -1,13 +1,13 @@
 ### Kleitnick
 
-Roblox exploit developer. Building UI libraries and game scripts.
+Developer. Luau and Python.
 
 ---
 
 ### Projects
 
 **[Iris-X](https://github.com/Kleitnick/Iris-X)**
-Single-file ImGui-style UI library for Roblox executors.
+Single-file ImGui-style UI library for Roblox.
 - Widgets, tabs, sections, notifications
 - Dark / light themes
 - Drag, resize, full unload
